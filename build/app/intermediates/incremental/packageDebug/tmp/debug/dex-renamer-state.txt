@@ -1,0 +1,4 @@
+#Fri Sep 08 21:19:05 IST 2023
+base.0=C\:\\Users\\hardi\\OneDrive\\Desktop\\Flutter projects\\Nick Store\\nickystore\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,10 @@
+^C:\USERS\HARDI\ONEDRIVE\DESKTOP\FLUTTER PROJECTS\NICK STORE\NICKYSTORE\BUILD\WINDOWS\CMAKEFILES\E32DA2AB066D2B597EFC6DEE925DE818\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/windows" "-BC:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/nickystore.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/CMakeFiles/nickystore.dir
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/CMakeFiles/ALL_BUILD.dir

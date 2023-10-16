@@ -1,0 +1,17 @@
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/assets/images/Me.png
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/assets/images/nice-removebg-preview.png
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/assets/images/Nike%20shoes%202.png
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/assets/images/Nike%20shoes%203.png
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/assets/images/Nike%20shoes.png
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/assets/images/pngwing.com%20(7).png
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

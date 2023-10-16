@@ -1,0 +1,10 @@
+^C:\USERS\HARDI\ONEDRIVE\DESKTOP\FLUTTER PROJECTS\NICK STORE\NICKYSTORE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/windows" "-BC:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows" --check-stamp-file "C:/Users/hardi/OneDrive/Desktop/Flutter projects/Nick Store/nickystore/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
